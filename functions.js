@@ -4,7 +4,7 @@ import { countryHTML, showEight, displayCountries } from "./utilities.js"
 const continentsNode = document.querySelectorAll('#continents-container div')
 const continentsArray = [...continentsNode]
 
-const res = await fetch('/countries.json')
+const res = await fetch('countries.json')
 const allData = await res.json()
 
 
