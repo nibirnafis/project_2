@@ -1,0 +1,476 @@
+[
+    {
+    "country" : "Bangladesh",
+    "timeOffset" : 6,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744441514/project_2/veqtm6e7kovlibj95jge.svg" 
+    },
+    {
+    "country" : "India",
+    "timeOffset" : 5.30,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744829136/in_dtelhc.svg" 
+    },
+    {
+    "country" : "Brazil",
+    "timeOffset" : -5,
+    "continent" : "South America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744441744/br_h7yqih.svg" 
+    },
+    {
+    "country" : "Argentina",
+    "timeOffset" : -3,
+    "continent" : "South America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744441804/ar_nscfo8.svg" 
+    },
+    {
+    "country" : "England",
+    "timeOffset" : 1,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744442240/gb_zum41c.svg" 
+    },
+    {
+    "country" : "Australia",
+    "timeOffset" : 10,
+    "continent" : "Oceania",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744441918/au_lckjns.svg" 
+    },
+    {
+    "country" : "USA",
+    "timeOffset" : -8,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744441877/us_qlti4s.svg" 
+    },
+    {
+    "country" : "Ghana",
+    "timeOffset" : 0,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744441959/gh_qqobtz.svg" 
+    },
+    {
+    "country" : "Finland",
+    "timeOffset" : 3,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744442011/fi_fcpqre.svg" 
+    },
+    {
+    "country" : "Canada",
+    "timeOffset" : -4,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744442039/ca_hydppy.svg" 
+    },
+    {
+    "country" : "Palestine",
+    "timeOffset" : 2,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744442110/ps_ery967.svg" 
+    },
+    {
+    "country" : "Afghanistan",
+    "timeOffset" : 4.30,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744662396/af_fbvu2j.svg" 
+    },
+    {
+    "country" : "Algeria",
+    "timeOffset" : 1,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744662458/dz_xliypa.svg" 
+    },
+    {
+    "country" : "Armenia",
+    "timeOffset" : 4,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744663348/am_hhosk8.svg" 
+    },
+    {
+    "country" : "Austria",
+    "timeOffset" : 2,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744663431/at_volh18.svg" 
+    },
+    {
+    "country" : "Bahamas",
+    "timeOffset" : -5,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744663619/bs_q8sonf.svg" 
+    },
+    {
+    "country" : "Bahrain",
+    "timeOffset" : 3,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744663645/bh_zhtbth.svg" 
+    },
+    {
+    "country" : "Belgium",
+    "timeOffset" : 2,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744663727/be_dqsbwg.svg" 
+    },
+    {
+    "country" : "Bermuda",
+    "timeOffset" : -4,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1744663824/bm_sw6yof.svg" 
+    },
+    {
+    "country" : "Bhutan",
+    "timeOffset" : 6,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745045774/bt_afheba.svg" 
+    },
+    {
+    "country" : "Bolivia",
+    "timeOffset" : -4,
+    "continent" : "South America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745045914/bo_gulspn.svg" 
+    },
+    {
+    "country" : "Bosnia and Herzegovina",
+    "timeOffset" : 1,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745046005/ba_cgvche.svg" 
+    },
+    {
+    "country" : "Brunei",
+    "timeOffset" : 8,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745046046/bn_tszquk.svg" 
+    },
+    {
+    "country" : "Bulgaria",
+    "timeOffset" : 2,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745046117/bg_e2klib.svg" 
+    },
+    {
+    "country" : "Cambodia",
+    "timeOffset" : 7,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745046214/kh_aie58o.svg" 
+    },
+    {
+    "country" : "Cameroon",
+    "timeOffset" : 1,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745046318/cm_npbqzy.svg" 
+    },
+    {
+    "country" : "Chile",
+    "timeOffset" : -4,
+    "continent" : "South America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745046406/cl_glsdvl.svg" 
+    },
+    {
+    "country" : "China",
+    "timeOffset" : 8,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745046735/cn_a87jvy.svg" 
+    },
+    {
+    "country" : "Colombia",
+    "timeOffset" : -5,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745046884/co_a0zalg.svg" 
+    },
+    {
+    "country" : "Comoros",
+    "timeOffset" : 3,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745046928/km_pyehex.svg" 
+    },
+    {
+    "country" : "Costa Rica",
+    "timeOffset" : -6,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745047130/cr_n75aer.svg" 
+    },
+    {
+    "country" : "Croatia",
+    "timeOffset" : 2,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745047230/hr_fqespj.svg" 
+    },
+    {
+    "country" : "Cuba",
+    "timeOffset" : -4,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745047309/cu_lnutmq.svg" 
+    },
+    {
+    "country" : "Cyprus",
+    "timeOffset" : 2,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745050734/cy_qx3209.svg" 
+    },
+    {
+    "country" : "Czech Republic",
+    "timeOffset" : 2,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745050780/cz_os6hoy.svg" 
+    },
+    {
+    "country" : "Denmark",
+    "timeOffset" : 1,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745050932/dk_jsvd02.svg" 
+    },
+    {
+    "country" : "Dominican Republic",
+    "timeOffset" : -4,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745051001/do_yuzrak.svg" 
+    },
+    {
+    "country" : "Ecuador",
+    "timeOffset" : -5,
+    "continent" : "South America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745051092/ec_hbmuol.svg" 
+    },
+    {
+    "country" : "Egypt",
+    "timeOffset" : 2,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745051176/eg_vwxpyf.svg" 
+    },
+    {
+    "country" : "Ethiopia",
+    "timeOffset" : 3,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745051270/et_ubxly8.svg" 
+    },
+    {
+    "country" : "Fiji",
+    "timeOffset" : 12,
+    "continent" : "Oceania",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745051344/fj_iv6751.svg" 
+    },
+    {
+    "country" : "France",
+    "timeOffset" : 1,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745051422/fr_b6rey8.svg" 
+    },
+    {
+    "country" : "Gambia",
+    "timeOffset" : 0,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745051530/gm_v6fyru.svg" 
+    },
+    {
+    "country" : "Georgia",
+    "timeOffset" : -4,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745051604/ge_uayxvi.svg" 
+    },
+    {
+    "country" : "Germany",
+    "timeOffset" : 1,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745051751/de_h3c7ep.svg" 
+    },
+    {
+    "country" : "Greece",
+    "timeOffset" : 2,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745051801/gr_ge7jhk.svg" 
+    },
+    {
+    "country" : "Greenland",
+    "timeOffset" : -2,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745051860/gl_w5q42l.svg" 
+    },
+    {
+    "country" : "Grenada",
+    "timeOffset" : -4,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745051907/gd_kmxsnj.svg" 
+    },
+    {
+    "country" : "Haiti",
+    "timeOffset" : -5,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745051986/ht_vg83hw.svg" 
+    },
+    {
+    "country" : "Honduras",
+    "timeOffset" : -6,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052035/hn_ydynuz.svg" 
+    },
+    {
+    "country" : "Hong Kong",
+    "timeOffset" : 8,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052104/hk_qpb54g.svg" 
+    },
+    {
+    "country" : "Hungary",
+    "timeOffset" : 2,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052183/hu_gzc3jv.svg" 
+    },
+    {
+    "country" : "Iceland",
+    "timeOffset" : 0,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052229/is_hoe7xa.svg" 
+    },
+    {
+    "country" : "Indonesia",
+    "timeOffset" : 8,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052273/id_sc4bnx.svg" 
+    },
+    {
+    "country" : "Iran",
+    "timeOffset" : 3.30,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052336/ir_t0el7v.svg" 
+    },
+    {
+    "country" : "Iraq",
+    "timeOffset" : 3,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052380/iq_xyh9is.svg" 
+    },
+    {
+    "country" : "Ireland",
+    "timeOffset" : 1,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052429/ie_h68abr.svg" 
+    },
+    {
+    "country" : "Italy",
+    "timeOffset" : 2,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052485/it_ja1dka.svg" 
+    },
+    {
+    "country" : "Jamaica",
+    "timeOffset" : -5,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052530/jm_ijp7it.svg" 
+    },
+    {
+    "country" : "Japan",
+    "timeOffset" : 9,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052579/jp_onvcdt.svg" 
+    },
+    {
+    "country" : "Jordan",
+    "timeOffset" : 3,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052634/jo_ck8e3v.svg" 
+    },
+    {
+    "country" : "Kazakhstan",
+    "timeOffset" : 5,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052675/kz_mpdysc.svg" 
+    },
+    {
+    "country" : "Kenya",
+    "timeOffset" : 3,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052725/ke_aphdqd.svg" 
+    },
+    {
+    "country" : "Kuwait",
+    "timeOffset" : 3,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052779/kw_we0ijf.svg" 
+    },
+    {
+    "country" : "Kyrgyzstan",
+    "timeOffset" : 6,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052837/kg_tcdmhn.svg" 
+    },
+    {
+    "country" : "Lebanon",
+    "timeOffset" : 3,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745052969/lb_tqpkzr.svg" 
+    },
+    {
+    "country" : "Liberia",
+    "timeOffset" : 0,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745053231/lr_s0207a.svg" 
+    },
+    {
+    "country" : "Libya",
+    "timeOffset" : 2,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745053338/ly_lrkdk7.svg" 
+    },
+    {
+    "country" : "Luxembourg",
+    "timeOffset" : 1,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745053386/lu_mvbsig.svg" 
+    },
+    {
+    "country" : "Madagascar",
+    "timeOffset" : 3,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745053453/mg_fsquhi.svg" 
+    },
+    {
+    "country" : "Malaysia",
+    "timeOffset" : 8,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745053565/my_z8ad2e.svg" 
+    },
+    {
+    "country" : "Papua New Guinea",
+    "timeOffset" : 10,
+    "continent" : "Oceania",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745053935/pg_xyb8zb.svg" 
+    },
+    {
+    "country" : "Tonga",
+    "timeOffset" : 13,
+    "continent" : "Oceania",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745054182/to_kxfa4u.svg" 
+    },
+    {
+    "country" : "Paraguay",
+    "timeOffset" : -3,
+    "continent" : "South America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745054356/py_aabruy.svg" 
+    },
+    {
+    "country" : "Peru",
+    "timeOffset" : -5,
+    "continent" : "South America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745054459/pe_jtwja2.svg" 
+    },
+    {
+    "country" : "Uruguay",
+    "timeOffset" : -3,
+    "continent" : "South America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745054508/uy_uirmbd.svg" 
+    },
+    {
+    "country" : "Palau",
+    "timeOffset" : 9,
+    "continent" : "Oceania",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745054711/pw_pvjzam.svg" 
+    },
+    {
+    "country" : "Tuvalu",
+    "timeOffset" : 12,
+    "continent" : "Oceania",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745054884/tv_ggqee1.svg" 
+    },
+    {
+    "country" : "Nauru",
+    "timeOffset" : 12,
+    "continent" : "Oceania",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745054928/nr_wpfbtz.svg" 
+    }
+]
