@@ -131,7 +131,7 @@ async function currentTime(){
 
 currentTime()
 
-// setInterval(currentTime, 60000)
+setInterval(currentTime, 60000)
 
 
 
