@@ -7,6 +7,12 @@ const continentsArray = [...continentsNode]
 const res = await fetch('countries.json')
 const allData = await res.json()
 
+const sortedCountriesName = allData.map(data => data.country).sort()
+const sortedData = sortedCountriesName.map(countryName => {
+    const country = allData.find(countryElement => countryElement.country === countryName)
+    return country
+})
+
 
 async function currentTime(){
 
@@ -32,7 +38,7 @@ async function currentTime(){
     const days = [ "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat" ]    
 
 
-    allData.map(data => {
+    sortedData.map(data => {
         const currentHours = utcHours + data.timeOffset
 
         const utcDay = days[d.getUTCDay()]

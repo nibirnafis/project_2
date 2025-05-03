@@ -135,7 +135,18 @@ main{
     #continents-container{
         display: grid;
         grid-template-columns: 400px;
-        max-width: 1320px;
+        max-width: 400px;
         margin: auto;
     }
 }
+
+
+/* @media screen and (max-width: 768px) {
+
+    #continents-container{
+        display: grid;
+        grid-template-columns: 400px 400px;
+        max-width: 860px;
+        margin: auto;
+    }
+} */
