@@ -1,4 +1,4 @@
-import { countryHTML, showEight, displayCountries } from "./utilities.js"
+import { countryHTML, showEight, displayAllCountries } from "./utilities.js"
 
 
 const continentsNode = document.querySelectorAll('#continents-container div')
@@ -132,7 +132,7 @@ async function currentTime(){
         }
     })
     showEight()
-    displayCountries()
+    displayAllCountries()
 }
 
 currentTime()

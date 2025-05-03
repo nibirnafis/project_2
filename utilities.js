@@ -29,11 +29,12 @@ function showEight(){
 
 
 
-function displayCountries(){
+function displayAllCountries(){
     const btnsNode = document.querySelectorAll('.show-all-btn')
-    const btnsNodeArray = [...btnsNode]
+    const btnsArray = [...btnsNode]
 
-    btnsNodeArray.map(showBtn => {
+    btnsArray.map(showBtn => {
+        const continent = showBtn.parentNode
         const countriesNode = showBtn.previousElementSibling.childNodes
         const countriesArray = [...countriesNode]
         
@@ -46,6 +47,7 @@ function displayCountries(){
                     }
                 })
                 showBtn.innerText = "< Show Less"
+                continent.classList.add("pop")
             }
 
             else if(showBtn.innerText === "< Show Less"){
@@ -55,10 +57,11 @@ function displayCountries(){
                     }
                 })
                 showBtn.innerText = "Show All >"
+                continent.classList.remove("pop")
             }
         })
     })
 }
 
 
-export { countryHTML, showEight, displayCountries }
+export { countryHTML, showEight, displayAllCountries }

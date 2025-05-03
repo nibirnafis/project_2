@@ -18,7 +18,7 @@ main{
 
 
 #header{
-    max-width: 100%;
+    width: 100%;
     margin-bottom: 45px;
     background-color: #D9D9D9;
 }
@@ -65,8 +65,8 @@ main{
 #continents-container{
     display: grid;
     grid-template-columns: 400px 400px 400px;
-    gap: 60px;
-    max-width: 1320px;
+    gap: 45px;
+    max-width: 1290px;
     margin: auto;
 }
 
@@ -82,7 +82,6 @@ main{
 .full-country-container{
     display: flex;
     flex-direction: column;
-    
     border: 1px;
     border-style: solid;
 }
@@ -129,24 +128,102 @@ main{
 }
 
 
+.pop{
+    background-color: #FFEECE;
+}
 
-@media screen and (max-width: 480px) {
 
+
+
+
+@media (min-width: 670px) and (max-width: 1320px){
+
+    #navbar{
+        max-width: 670px;
+        margin: auto;
+    }
+
+    
     #continents-container{
         display: grid;
-        grid-template-columns: 400px;
-        max-width: 400px;
+        grid-template-columns: 320px 320px;
+        max-width: 670px;
+        gap: 30px;
         margin: auto;
+    }
+    
+    
+    .country-details{
+        display: grid;
+        grid-template-columns: 40px 120px 60px 40px;
+        padding: 10px 30px;
+        margin: auto;
+        background-color: #373737;
+    }
+
+
+    .country{
+        display: grid;
+        grid-template-columns: 40px 120px 60px 40px;
+        margin: 16px 0px;
     }
 }
 
 
-/* @media screen and (max-width: 768px) {
+
+
+
+@media (max-width: 669px) {
+
+    #logo{
+        font-weight: 800;
+        font-size: 1.5rem;
+    }
+
+
+    .routes{
+        font-weight: 200;
+        font-size: .8rem;
+    }
+
+
+    .notice{
+        font-weight: 400;
+        font-size: .8rem;
+        text-align: center;
+    }
+
+
+    #navbar{
+        width: 320px;
+        margin: auto;
+    }
+
 
     #continents-container{
         display: grid;
-        grid-template-columns: 400px 400px;
-        max-width: 860px;
+        grid-template-columns: 320px;
+        max-width: 320px;
+        gap: 30px;
         margin: auto;
     }
-} */
+    
+    
+    .country-details{
+        display: grid;
+        grid-template-columns: 40px 120px 60px 40px;
+        padding: 10px 30px;
+        margin: auto;
+        background-color: #373737;
+    }
+
+
+    .country{
+        display: grid;
+        grid-template-columns: 40px 120px 60px 40px;
+        margin: 16px 0px;
+    }
+
+}
+
+
