@@ -9,7 +9,7 @@ const allData = await res.json()
 
 const sortedCountriesName = allData.map(data => data.country).sort()
 const sortedData = sortedCountriesName.map(countryName => {
-    const country = allData.find(countryElement => countryElement.country === countryName)
+    const country = allData.find(data => data.country === countryName)
     return country
 })
 
