@@ -19,7 +19,6 @@ main{
 
 #header{
     width: 100%;
-    margin-bottom: 45px;
     background-color: #D9D9D9;
 }
 
@@ -58,7 +57,7 @@ main{
 
 #main-container{
     max-width: 1320px;
-    margin: auto;
+    margin: 45px auto;
 }
 
 
@@ -75,7 +74,7 @@ main{
     text-align: center;
     font-size: 1.5rem ;
     font-weight: 700;
-    margin-bottom: 14px;
+    margin-bottom: 7px;
 }
 
 
@@ -133,6 +132,19 @@ main{
 }
 
 
+#footer{
+    background-color: #D9D9D9;
+    min-width: 320px;
+    padding: 60px 0px;
+}
+
+#footer-content{
+    max-width: 1320px;
+    margin: auto;
+    
+}
+
+
 
 
 
@@ -166,6 +178,12 @@ main{
         display: grid;
         grid-template-columns: 40px 120px 60px 40px;
         margin: 16px 0px;
+    }
+
+
+    #footer-content{
+        max-width: 670px;
+        margin: auto;
     }
 }
 
@@ -228,6 +246,14 @@ main{
         grid-template-columns: 40px 120px 60px 40px;
         margin: 16px 0px;
     }
+
+
+    #footer-content{
+        width: 320px;
+        margin: auto;
+        text-align: center;
+    }
+
 
 }
 
