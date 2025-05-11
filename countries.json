@@ -170,7 +170,7 @@
     {
     "country" : "Colombia",
     "timeOffset" : -5,
-    "continent" : "North America",
+    "continent" : "South America",
     "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745046884/co_a0zalg.svg" 
     },
     {
@@ -472,5 +472,317 @@
     "timeOffset" : 12,
     "continent" : "Oceania",
     "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1745054928/nr_wpfbtz.svg" 
+    },
+    {
+    "country" : "Nepal",
+    "timeOffset" : 5.45,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746980200/np_aaexwj.svg" 
+    },
+    {
+    "country" : "Netherlands",
+    "timeOffset" : 2,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746980316/nl_nhfasm.svg" 
+    },
+    {
+    "country" : "New Zealand",
+    "timeOffset" : 12,
+    "continent" : "Oceania",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746980443/nz_cj4pjh.svg" 
+    },
+    {
+    "country" : "Nigeria",
+    "timeOffset" : 1,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746980593/ng_imlhuw.svg" 
+    },
+    {
+    "country" : "North Korea",
+    "timeOffset" : 9,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746980676/kp_q8y8ye.svg" 
+    },
+    {
+    "country" : "Norway",
+    "timeOffset" : 2,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746980738/no_y3ddgb.svg" 
+    },
+    {
+    "country" : "Oman",
+    "timeOffset" : 4,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746980911/om_qfp0ex.svg" 
+    },
+    {
+    "country" : "Pakistan",
+    "timeOffset" : 5,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746980993/pk_ds1ecm.svg" 
+    },
+    {
+    "country" : "Philippines",
+    "timeOffset" : 8,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746981165/ph_uhdahn.svg" 
+    },
+    {
+    "country" : "Poland",
+    "timeOffset" : 2,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746981275/pl_s80tlz.svg" 
+    },
+    {
+    "country" : "Portugal",
+    "timeOffset" : 1,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746981308/pt_gedwjk.svg" 
+    },
+    {
+    "country" : "Puerto Rico",
+    "timeOffset" : -4,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746981353/pr_mxomxo.svg" 
+    },
+    {
+    "country" : "Qatar",
+    "timeOffset" : 3,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746981430/qa_lbtzic.svg" 
+    },
+    {
+    "country" : "Congo",
+    "timeOffset" : 1,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746981491/cg_lvwmez.svg" 
+    },
+    {
+    "country" : "Romania",
+    "timeOffset" : 3,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746981637/ro_nwyvyt.svg" 
+    },
+    {
+    "country" : "Russia",
+    "timeOffset" : 3,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746981690/ru_i9sysm.svg" 
+    },
+    {
+    "country" : "Saudi Arabia",
+    "timeOffset" : 3,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746981754/sa_oitvdc.svg" 
+    },
+    {
+    "country" : "Senegal",
+    "timeOffset" : 0,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746981790/sn_bmfpdj.svg" 
+    },
+    {
+    "country" : "Serbia",
+    "timeOffset" : 2,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746981847/rs_dr4ssc.svg" 
+    },
+    {
+    "country" : "Sierra Leone",
+    "timeOffset" : 0,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746981887/sl_i3d9ns.svg" 
+    },
+    {
+    "country" : "Singapore",
+    "timeOffset" : 8,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746981975/sg_pqmh74.svg" 
+    },
+    {
+    "country" : "Slovakia",
+    "timeOffset" : 2,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982015/sk_mmvkpz.svg" 
+    },
+    {
+    "country" : "Somalia",
+    "timeOffset" : 3,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982074/so_b0h7ux.svg" 
+    },
+    {
+    "country" : "South Africa",
+    "timeOffset" : 2,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982149/za_xzx81k.svg" 
+    },
+    {
+    "country" : "South Korea",
+    "timeOffset" : 9,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982187/sk_cskovz.svg" 
+    },
+    {
+    "country" : "South Sudan",
+    "timeOffset" : 2,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982231/ss_t3gehw.svg" 
+    },
+    {
+    "country" : "Spain",
+    "timeOffset" : 1,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982426/es_qv1yky.svg" 
+    },
+    {
+    "country" : "Sri Lanka",
+    "timeOffset" : 5.30,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982471/lk_wc2ybh.svg" 
+    },
+    {
+    "country" : "Sudan",
+    "timeOffset" : 2,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982513/sd_vszlha.svg" 
+    },
+    {
+    "country" : "Sweden",
+    "timeOffset" : 1,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982567/se_wzhcsv.svg" 
+    },
+    {
+    "country" : "Switzerland",
+    "timeOffset" : 1,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982610/ch_mzx0az.svg" 
+    },
+    {
+    "country" : "Syria",
+    "timeOffset" : 3,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982646/sy_az5hqf.svg" 
+    },
+    {
+    "country" : "Taiwan",
+    "timeOffset" : 0,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982732/tw_ffa8ls.svg" 
+    },
+    {
+    "country" : "Tajikistan",
+    "timeOffset" : 5,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982779/tj_ku4ygk.svg" 
+    },
+    {
+    "country" : "Tajikistan",
+    "timeOffset" : 3,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982838/tz_nlcj60.svg" 
+    },
+    {
+    "country" : "Tajikistan",
+    "timeOffset" : 3,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982838/tz_nlcj60.svg" 
+    },
+    {
+    "country" : "Thailand",
+    "timeOffset" : 7,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982917/th_iv6kbi.svg" 
+    },
+    {
+    "country" : "Türkiye",
+    "timeOffset" : 3,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746983011/tr_dq48el.svg" 
+    },
+    {
+    "country" : "Uganda",
+    "timeOffset" : 3,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746983047/ug_zvhwfs.svg" 
+    },
+    {
+    "country" : "Ukraine",
+    "timeOffset" : 0,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746983091/ua_ql6uwn.svg" 
+    },
+    {
+    "country" : "United Arab Emirates",
+    "timeOffset" : 4,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746983196/ae_f6zkwl.svg" 
+    },
+    {
+    "country" : "Uzbekistan",
+    "timeOffset" : 5,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746983309/uz_tesyzh.svg" 
+    },
+    {
+    "country" : "Venezuela",
+    "timeOffset" : -4,
+    "continent" : "South America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746983399/ve_olca8d.svg" 
+    },
+    {
+    "country" : "Vietnam",
+    "timeOffset" : 7,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746983463/vn_je8fpb.svg" 
+    },
+    {
+    "country" : "Yemen",
+    "timeOffset" : 3,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746983534/ye_pehhib.svg" 
+    },
+    {
+    "country" : "Zambia",
+    "timeOffset" : 2,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746983602/zm_cspd7q.svg" 
+    },
+    {
+    "country" : "Zimbabwe",
+    "timeOffset" : 2,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746983639/zw_u60rug.svg" 
+    },
+    {
+    "country" : "Albania",
+    "timeOffset" : 2,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746983758/al_rscttz.svg" 
+    },
+    {
+    "country" : "Algeria",
+    "timeOffset" : 1,
+    "continent" : "Africa",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746983864/dz_c69dnh.svg" 
+    },
+    {
+    "country" : "Azerbaijan",
+    "timeOffset" : 4,
+    "continent" : "Asia",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746991616/az_wft4ft.svg" 
+    },
+    {
+    "country" : "Barbados",
+    "timeOffset" : -4,
+    "continent" : "North America",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746991854/bb_kuff6t.svg" 
+    },
+    {
+    "country" : "Belarus",
+    "timeOffset" : 3,
+    "continent" : "Europe",
+    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746991908/by_armf7q.svg" 
     }
 ]
