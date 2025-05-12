@@ -32,8 +32,8 @@ async function currentTime(){
 
 
     const d = new Date()
-    const utcMinutes = d.getUTCMinutes()
     const utcHours = d.getUTCHours()
+    const utcMinutes = d.getUTCMinutes()
 
     const days = [ "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat" ]    
 
@@ -52,21 +52,21 @@ async function currentTime(){
         if(Number.isInteger(currentHours)){
 
             if(currentHours >= 24){
-                const adjustedCurrentHours = currentHours - 24
+                const adjustedCurrentHours = (currentHours - 24).toString().padStart(2, '0')
                 const adjustedUtcDay = ( utcDay === "Sat" ? days[0] : days[d.getUTCDay() + 1] )
-                country.innerHTML = countryHTML(data.flag, data.country, adjustedUtcDay, adjustedCurrentHours, utcMinutes)
+                country.innerHTML = countryHTML(data.flag, data.country, adjustedUtcDay, adjustedCurrentHours, utcMinutes.toString().padStart(2, '0'))
                 countryContainer.append(country)
             }
 
             else if(currentHours < 0){
-                const adjustedCurrentHours = 24 + currentHours
+                const adjustedCurrentHours = (24 + currentHours).toString().padStart(2, '0')
                 const adjustedUtcDay = ( utcDay === "Sun" ? days[days.length - 1] : days[d.getUTCDay() - 1] )
-                country.innerHTML = countryHTML(data.flag, data.country, adjustedUtcDay, adjustedCurrentHours, utcMinutes)
+                country.innerHTML = countryHTML(data.flag, data.country, adjustedUtcDay, adjustedCurrentHours, utcMinutes.toString().padStart(2, '0'))
                 countryContainer.append(country)
             }
 
             else{
-                country.innerHTML = countryHTML(data.flag, data.country, utcDay, currentHours, utcMinutes)
+                country.innerHTML = countryHTML(data.flag, data.country, utcDay, currentHours.toString().padStart(2, '0'), utcMinutes.toString().padStart(2, '0'))
                 countryContainer.append(country)
             }
         }
@@ -85,11 +85,11 @@ async function currentTime(){
                 if(currentMinutes >= 60){
                     const readjustedCurrentHours = adjustedCurrentHours + 1
                     const adjustedCurrentMinutes = currentMinutes - 60
-                    country.innerHTML = countryHTML(data.flag, data.country, adjustedUtcDay, readjustedCurrentHours, adjustedCurrentMinutes)
+                    country.innerHTML = countryHTML(data.flag, data.country, adjustedUtcDay, readjustedCurrentHours.toString().padStart(2, '0'), adjustedCurrentMinutes.toString().padStart(2, '0'))
                     countryContainer.append(country)
                 }
                 else{
-                    country.innerHTML = countryHTML(data.flag, data.country, adjustedUtcDay, adjustedCurrentHours, currentMinutes)
+                    country.innerHTML = countryHTML(data.flag, data.country, adjustedUtcDay, adjustedCurrentHours.toString().padStart(2, '0'), currentMinutes.toString().padStart(2, '0'))
                     countryContainer.append(country)
                 }
             }
@@ -101,11 +101,11 @@ async function currentTime(){
                 if(currentMinutes >= 60){
                     const readjustedCurrentHours = ( adjustedCurrentHours == 23 ? 0 : hours + 1 )
                     const adjustedCurrentMinutes = currentMinutes - 60
-                    country.innerHTML = countryHTML(data.flag, data.country, adjustedUtcDay, readjustedCurrentHours, adjustedCurrentMinutes)
+                    country.innerHTML = countryHTML(data.flag, data.country, adjustedUtcDay, readjustedCurrentHours.toString().padStart(2, '0'), adjustedCurrentMinutes.toString().padStart(2, '0'))
                     countryContainer.append(country)
                 }
                 else{
-                    country.innerHTML = countryHTML(data.flag, data.country, adjustedUtcDay, adjustedCurrentHours, currentMinutes)
+                    country.innerHTML = countryHTML(data.flag, data.country, adjustedUtcDay, adjustedCurrentHours.toString().padStart(2, '0'), currentMinutes.toString().padStart(2, '0'))
                     countryContainer.append(country)
                 }
             }
@@ -121,11 +121,11 @@ async function currentTime(){
                         : 
                         days[d.getUTCDay()] 
                     )
-                    country.innerHTML = countryHTML(data.flag, data.country, adjustedUtcDay, adjustedCurrentHours, adjustedCurrentMinutes)
+                    country.innerHTML = countryHTML(data.flag, data.country, adjustedUtcDay, adjustedCurrentHours.toString().padStart(2, '0'), adjustedCurrentMinutes.toString().padStart(2, '0'))
                     countryContainer.append(country)
                 }
                 else{
-                    country.innerHTML = countryHTML(data.flag, data.country, utcDay, hours, currentMinutes)
+                    country.innerHTML = countryHTML(data.flag, data.country, utcDay, hours.toString().padStart(2, '0'), currentMinutes.toString().padStart(2, '0'))
                     countryContainer.append(country)
                 }
             }

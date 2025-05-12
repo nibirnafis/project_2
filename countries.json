@@ -678,18 +678,6 @@
     "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982779/tj_ku4ygk.svg" 
     },
     {
-    "country" : "Tajikistan",
-    "timeOffset" : 3,
-    "continent" : "Africa",
-    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982838/tz_nlcj60.svg" 
-    },
-    {
-    "country" : "Tajikistan",
-    "timeOffset" : 3,
-    "continent" : "Africa",
-    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746982838/tz_nlcj60.svg" 
-    },
-    {
     "country" : "Thailand",
     "timeOffset" : 7,
     "continent" : "Asia",
@@ -760,12 +748,6 @@
     "timeOffset" : 2,
     "continent" : "Europe",
     "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746983758/al_rscttz.svg" 
-    },
-    {
-    "country" : "Algeria",
-    "timeOffset" : 1,
-    "continent" : "Africa",
-    "flag" : "https://res.cloudinary.com/dcny80yei/image/upload/v1746983864/dz_c69dnh.svg" 
     },
     {
     "country" : "Azerbaijan",
